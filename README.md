@@ -9,7 +9,7 @@
   <a href="https://orcid.org/0009-0006-5468-6484"><img src="https://img.shields.io/badge/ORCID-0009--0006--5468--6484-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"></a>
   <a href="https://scholar.google.com/citations?hl=en&user=PdJIyL0AAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
   <a href="https://www.linkedin.com/in/hesam-haddad/"><img src="https://img.shields.io/badge/LinkedIn-hesam--haddad-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://hesamhaddad.github.io"><img src="https://img.shields.io/badge/Website-doubleh7.github.io-222222?style=flat-square&logo=githubpages&logoColor=white" alt="Website"></a>
+  <a href="https://hesamhaddad.github.io"><img src="https://img.shields.io/badge/Website-hesamhaddad.github.io-222222?style=flat-square&logo=githubpages&logoColor=white" alt="Website"></a>
 </p>
 
 ---
@@ -62,6 +62,6 @@ Vision–language–action models · physical AI · robot learning and reinforce
 <!--
 Optional: GitHub stats card. The public instance is often rate-limited; self-host it on Vercel if it fails to load.
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DoubleH7&show_icons=true&hide_border=true" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=HesamHaddad&show_icons=true&hide_border=true" alt="GitHub stats">
 </p>
 -->
