@@ -9,7 +9,7 @@
   <a href="https://orcid.org/0009-0006-5468-6484"><img src="https://img.shields.io/badge/ORCID-0009--0006--5468--6484-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"></a>
   <a href="https://scholar.google.com/citations?hl=en&user=PdJIyL0AAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
   <a href="https://www.linkedin.com/in/hesam-haddad/"><img src="https://img.shields.io/badge/LinkedIn-hesam--haddad-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://doubleh7.github.io"><img src="https://img.shields.io/badge/Website-doubleh7.github.io-222222?style=flat-square&logo=githubpages&logoColor=white" alt="Website"></a>
+  <a href="https://hesamhaddad.github.io"><img src="https://img.shields.io/badge/Website-doubleh7.github.io-222222?style=flat-square&logo=githubpages&logoColor=white" alt="Website"></a>
 </p>
 
 ---
@@ -30,7 +30,7 @@ I am looking for a PhD position starting in **Fall 2027**.
 
 | Project | Description |
 | --- | --- |
-| [**FlexiLearn**](https://github.com/DoubleH7/FlexiLearn) | My training framework. I used it to implement MoRE's Q-learning method, training a 2B Qwen model with LoRA. |
+| [**FlexiLearn**](https://github.com/HesamHaddad/FlexiLearn) | My training framework. I used it to implement MoRE's Q-learning method, training a 2B Qwen model with LoRA. |
 
 ### 📄 Publications
 
